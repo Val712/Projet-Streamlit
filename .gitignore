@@ -6,5 +6,3 @@ venv/
 # Fichiers de cache Python
 __pycache__/
 *.pyc
-#images
-images/
